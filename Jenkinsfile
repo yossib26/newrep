@@ -9,7 +9,7 @@ pipeline{
                 stage('first') {
                     steps {
                         echo 'first ..........'
-                        sleep 4
+                        sleep 8
                     }
                 }
                 
